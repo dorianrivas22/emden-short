@@ -1,0 +1,1195 @@
+[
+ {
+  "start": 0.0,
+  "end": 4.6,
+  "text": " En 1914, la tripulaci\u00f3n de un barco de guerra alem\u00e1n construy\u00f3 una chimenea",
+  "words": [
+   [
+    0.0,
+    0.3,
+    " En"
+   ],
+   [
+    0.3,
+    1.34,
+    " 1914,"
+   ],
+   [
+    1.76,
+    1.86,
+    " la"
+   ],
+   [
+    1.86,
+    2.38,
+    " tripulaci\u00f3n"
+   ],
+   [
+    2.38,
+    2.52,
+    " de"
+   ],
+   [
+    2.52,
+    2.68,
+    " un"
+   ],
+   [
+    2.68,
+    2.92,
+    " barco"
+   ],
+   [
+    2.92,
+    3.04,
+    " de"
+   ],
+   [
+    3.04,
+    3.18,
+    " guerra"
+   ],
+   [
+    3.18,
+    3.52,
+    " alem\u00e1n"
+   ],
+   [
+    3.52,
+    4.0,
+    " construy\u00f3"
+   ],
+   [
+    4.0,
+    4.2,
+    " una"
+   ],
+   [
+    4.2,
+    4.6,
+    " chimenea"
+   ]
+  ]
+ },
+ {
+  "start": 4.6,
+  "end": 7.54,
+  "text": " falsa de madera y lona y la atornill\u00f3 a su barco.",
+  "words": [
+   [
+    4.6,
+    4.92,
+    " falsa"
+   ],
+   [
+    4.92,
+    5.08,
+    " de"
+   ],
+   [
+    5.08,
+    5.48,
+    " madera"
+   ],
+   [
+    5.48,
+    5.74,
+    " y"
+   ],
+   [
+    5.74,
+    5.94,
+    " lona"
+   ],
+   [
+    5.94,
+    6.24,
+    " y"
+   ],
+   [
+    6.24,
+    6.42,
+    " la"
+   ],
+   [
+    6.42,
+    6.78,
+    " atornill\u00f3"
+   ],
+   [
+    6.78,
+    6.88,
+    " a"
+   ],
+   [
+    6.88,
+    6.98,
+    " su"
+   ],
+   [
+    6.98,
+    7.54,
+    " barco."
+   ]
+  ]
+ },
+ {
+  "start": 7.76,
+  "end": 10.32,
+  "text": " Los marineros pensaron que el capit\u00e1n se hab\u00eda vuelto loco.",
+  "words": [
+   [
+    7.76,
+    7.9,
+    " Los"
+   ],
+   [
+    7.9,
+    8.34,
+    " marineros"
+   ],
+   [
+    8.34,
+    8.72,
+    " pensaron"
+   ],
+   [
+    8.72,
+    8.84,
+    " que"
+   ],
+   [
+    8.84,
+    8.98,
+    " el"
+   ],
+   [
+    8.98,
+    9.24,
+    " capit\u00e1n"
+   ],
+   [
+    9.24,
+    9.4,
+    " se"
+   ],
+   [
+    9.4,
+    9.56,
+    " hab\u00eda"
+   ],
+   [
+    9.56,
+    9.84,
+    " vuelto"
+   ],
+   [
+    9.84,
+    10.32,
+    " loco."
+   ]
+  ]
+ },
+ {
+  "start": 10.64,
+  "end": 13.66,
+  "text": " El oc\u00e9ano est\u00e1 lleno de barcos enemigos y \u00e9l haciendo manualidades.",
+  "words": [
+   [
+    10.64,
+    10.74,
+    " El"
+   ],
+   [
+    10.74,
+    11.08,
+    " oc\u00e9ano"
+   ],
+   [
+    11.08,
+    11.24,
+    " est\u00e1"
+   ],
+   [
+    11.24,
+    11.44,
+    " lleno"
+   ],
+   [
+    11.44,
+    11.58,
+    " de"
+   ],
+   [
+    11.58,
+    11.86,
+    " barcos"
+   ],
+   [
+    11.86,
+    12.28,
+    " enemigos"
+   ],
+   [
+    12.28,
+    12.5,
+    " y"
+   ],
+   [
+    12.5,
+    12.62,
+    " \u00e9l"
+   ],
+   [
+    12.62,
+    12.92,
+    " haciendo"
+   ],
+   [
+    12.92,
+    13.66,
+    " manualidades."
+   ]
+  ]
+ },
+ {
+  "start": 14.08,
+  "end": 15.52,
+  "text": " Pero \u00e9l s\u00f3lo se\u00f1ala el mapa.",
+  "words": [
+   [
+    14.08,
+    14.3,
+    " Pero"
+   ],
+   [
+    14.3,
+    14.5,
+    " \u00e9l"
+   ],
+   [
+    14.5,
+    14.64,
+    " s\u00f3lo"
+   ],
+   [
+    14.64,
+    15.0,
+    " se\u00f1ala"
+   ],
+   [
+    15.0,
+    15.18,
+    " el"
+   ],
+   [
+    15.18,
+    15.52,
+    " mapa."
+   ]
+  ]
+ },
+ {
+  "start": 16.48,
+  "end": 17.36,
+  "text": " \u00a1Vamos a entrar!",
+  "words": [
+   [
+    16.48,
+    16.96,
+    " \u00a1Vamos"
+   ],
+   [
+    16.96,
+    17.1,
+    " a"
+   ],
+   [
+    17.1,
+    17.36,
+    " entrar!"
+   ]
+  ]
+ },
+ {
+  "start": 17.78,
+  "end": 20.8,
+  "text": " Penan era un puerto brit\u00e1nico repleto de buques de guerra enemigos.",
+  "words": [
+   [
+    17.78,
+    18.04,
+    " Penan"
+   ],
+   [
+    18.04,
+    18.18,
+    " era"
+   ],
+   [
+    18.18,
+    18.3,
+    " un"
+   ],
+   [
+    18.3,
+    18.56,
+    " puerto"
+   ],
+   [
+    18.56,
+    19.08,
+    " brit\u00e1nico"
+   ],
+   [
+    19.08,
+    19.5,
+    " repleto"
+   ],
+   [
+    19.5,
+    19.64,
+    " de"
+   ],
+   [
+    19.64,
+    19.82,
+    " buques"
+   ],
+   [
+    19.82,
+    19.92,
+    " de"
+   ],
+   [
+    19.92,
+    20.06,
+    " guerra"
+   ],
+   [
+    20.06,
+    20.8,
+    " enemigos."
+   ]
+  ]
+ },
+ {
+  "start": 21.1,
+  "end": 23.94,
+  "text": " Entrar ah\u00ed era como pasearse por una comisar\u00eda con un pasamontanas.",
+  "words": [
+   [
+    21.1,
+    21.42,
+    " Entrar"
+   ],
+   [
+    21.42,
+    21.54,
+    " ah\u00ed"
+   ],
+   [
+    21.54,
+    21.7,
+    " era"
+   ],
+   [
+    21.7,
+    21.86,
+    " como"
+   ],
+   [
+    21.86,
+    22.26,
+    " pasearse"
+   ],
+   [
+    22.26,
+    22.42,
+    " por"
+   ],
+   [
+    22.42,
+    22.6,
+    " una"
+   ],
+   [
+    22.6,
+    23.02,
+    " comisar\u00eda"
+   ],
+   [
+    23.02,
+    23.16,
+    " con"
+   ],
+   [
+    23.16,
+    23.28,
+    " un"
+   ],
+   [
+    23.28,
+    23.94,
+    " pasamontanas."
+   ]
+  ]
+ },
+ {
+  "start": 24.4,
+  "end": 27.58,
+  "text": " As\u00ed que, antes del amanecer, pasan tan tranquilos junto al faro.",
+  "words": [
+   [
+    24.4,
+    24.66,
+    " As\u00ed"
+   ],
+   [
+    24.66,
+    24.96,
+    " que,"
+   ],
+   [
+    25.02,
+    25.2,
+    " antes"
+   ],
+   [
+    25.2,
+    25.32,
+    " del"
+   ],
+   [
+    25.32,
+    25.74,
+    " amanecer,"
+   ],
+   [
+    25.94,
+    26.1,
+    " pasan"
+   ],
+   [
+    26.1,
+    26.3,
+    " tan"
+   ],
+   [
+    26.3,
+    26.68,
+    " tranquilos"
+   ],
+   [
+    26.68,
+    26.96,
+    " junto"
+   ],
+   [
+    26.96,
+    27.14,
+    " al"
+   ],
+   [
+    27.14,
+    27.58,
+    " faro."
+   ]
+  ]
+ },
+ {
+  "start": 27.58,
+  "end": 31.38,
+  "text": " Los guardias entrecierran los ojos, cuentan las chimeneas y saludan.",
+  "words": [
+   [
+    27.58,
+    27.98,
+    " Los"
+   ],
+   [
+    27.98,
+    28.32,
+    " guardias"
+   ],
+   [
+    28.32,
+    28.74,
+    " entrecierran"
+   ],
+   [
+    28.74,
+    28.92,
+    " los"
+   ],
+   [
+    28.92,
+    29.18,
+    " ojos,"
+   ],
+   [
+    29.44,
+    29.68,
+    " cuentan"
+   ],
+   [
+    29.68,
+    29.82,
+    " las"
+   ],
+   [
+    29.82,
+    30.36,
+    " chimeneas"
+   ],
+   [
+    30.36,
+    30.64,
+    " y"
+   ],
+   [
+    30.64,
+    31.38,
+    " saludan."
+   ]
+  ]
+ },
+ {
+  "start": 31.56,
+  "end": 34.14,
+  "text": " Dentro, un crucero ruso duerme pl\u00e1cidamente anclado.",
+  "words": [
+   [
+    31.56,
+    31.94,
+    " Dentro,"
+   ],
+   [
+    32.0,
+    32.12,
+    " un"
+   ],
+   [
+    32.12,
+    32.48,
+    " crucero"
+   ],
+   [
+    32.48,
+    32.68,
+    " ruso"
+   ],
+   [
+    32.68,
+    33.0,
+    " duerme"
+   ],
+   [
+    33.0,
+    33.54,
+    " pl\u00e1cidamente"
+   ],
+   [
+    33.54,
+    34.14,
+    " anclado."
+   ]
+  ]
+ },
+ {
+  "start": 34.44,
+  "end": 36.08,
+  "text": " Su capit\u00e1n ni siquiera est\u00e1 a bordo.",
+  "words": [
+   [
+    34.44,
+    34.58,
+    " Su"
+   ],
+   [
+    34.58,
+    34.92,
+    " capit\u00e1n"
+   ],
+   [
+    34.92,
+    35.08,
+    " ni"
+   ],
+   [
+    35.08,
+    35.4,
+    " siquiera"
+   ],
+   [
+    35.4,
+    35.58,
+    " est\u00e1"
+   ],
+   [
+    35.58,
+    35.68,
+    " a"
+   ],
+   [
+    35.68,
+    36.08,
+    " bordo."
+   ]
+  ]
+ },
+ {
+  "start": 36.34,
+  "end": 38.18,
+  "text": " Los alemanes se deslizan justo a su lado.",
+  "words": [
+   [
+    36.34,
+    36.56,
+    " Los"
+   ],
+   [
+    36.56,
+    36.92,
+    " alemanes"
+   ],
+   [
+    36.92,
+    37.06,
+    " se"
+   ],
+   [
+    37.06,
+    37.38,
+    " deslizan"
+   ],
+   [
+    37.38,
+    37.66,
+    " justo"
+   ],
+   [
+    37.66,
+    37.8,
+    " a"
+   ],
+   [
+    37.8,
+    37.9,
+    " su"
+   ],
+   [
+    37.9,
+    38.18,
+    " lado."
+   ]
+  ]
+ },
+ {
+  "start": 38.7,
+  "end": 40.6,
+  "text": " Entonces, se hizan su bandera y disparan.",
+  "words": [
+   [
+    38.7,
+    38.96,
+    " Entonces,"
+   ],
+   [
+    38.96,
+    39.14,
+    " se"
+   ],
+   [
+    39.14,
+    39.22,
+    " hizan"
+   ],
+   [
+    39.22,
+    39.36,
+    " su"
+   ],
+   [
+    39.36,
+    39.7,
+    " bandera"
+   ],
+   [
+    39.7,
+    39.88,
+    " y"
+   ],
+   [
+    39.88,
+    40.6,
+    " disparan."
+   ]
+  ]
+ },
+ {
+  "start": 40.82,
+  "end": 43.14,
+  "text": " Ver\u00e1s, en la oscuridad nadie pod\u00eda ver una bandera.",
+  "words": [
+   [
+    40.82,
+    41.18,
+    " Ver\u00e1s,"
+   ],
+   [
+    41.18,
+    41.28,
+    " en"
+   ],
+   [
+    41.28,
+    41.42,
+    " la"
+   ],
+   [
+    41.42,
+    41.8,
+    " oscuridad"
+   ],
+   [
+    41.8,
+    42.02,
+    " nadie"
+   ],
+   [
+    42.02,
+    42.28,
+    " pod\u00eda"
+   ],
+   [
+    42.28,
+    42.46,
+    " ver"
+   ],
+   [
+    42.46,
+    42.64,
+    " una"
+   ],
+   [
+    42.64,
+    43.14,
+    " bandera."
+   ]
+  ]
+ },
+ {
+  "start": 43.48,
+  "end": 45.42,
+  "text": " As\u00ed que los vig\u00edas contaban chimeneas.",
+  "words": [
+   [
+    43.48,
+    43.68,
+    " As\u00ed"
+   ],
+   [
+    43.68,
+    43.86,
+    " que"
+   ],
+   [
+    43.86,
+    44.04,
+    " los"
+   ],
+   [
+    44.04,
+    44.36,
+    " vig\u00edas"
+   ],
+   [
+    44.36,
+    44.78,
+    " contaban"
+   ],
+   [
+    44.78,
+    45.42,
+    " chimeneas."
+   ]
+  ]
+ },
+ {
+  "start": 45.86,
+  "end": 47.52,
+  "text": " Los cruceros brit\u00e1nicos ten\u00edan cuatro.",
+  "words": [
+   [
+    45.86,
+    46.02,
+    " Los"
+   ],
+   [
+    46.02,
+    46.44,
+    " cruceros"
+   ],
+   [
+    46.44,
+    46.96,
+    " brit\u00e1nicos"
+   ],
+   [
+    46.96,
+    47.22,
+    " ten\u00edan"
+   ],
+   [
+    47.22,
+    47.52,
+    " cuatro."
+   ]
+  ]
+ },
+ {
+  "start": 47.98,
+  "end": 49.38,
+  "text": " El barco alem\u00e1n ten\u00eda tres.",
+  "words": [
+   [
+    47.98,
+    48.2,
+    " El"
+   ],
+   [
+    48.2,
+    48.44,
+    " barco"
+   ],
+   [
+    48.44,
+    48.72,
+    " alem\u00e1n"
+   ],
+   [
+    48.72,
+    48.96,
+    " ten\u00eda"
+   ],
+   [
+    48.96,
+    49.38,
+    " tres."
+   ]
+  ]
+ },
+ {
+  "start": 49.8,
+  "end": 52.98,
+  "text": " Es como reconocer a tu amigo entre la multitud por su gorra roja.",
+  "words": [
+   [
+    49.8,
+    50.02,
+    " Es"
+   ],
+   [
+    50.02,
+    50.22,
+    " como"
+   ],
+   [
+    50.22,
+    50.68,
+    " reconocer"
+   ],
+   [
+    50.68,
+    50.76,
+    " a"
+   ],
+   [
+    50.76,
+    50.86,
+    " tu"
+   ],
+   [
+    50.86,
+    51.08,
+    " amigo"
+   ],
+   [
+    51.08,
+    51.32,
+    " entre"
+   ],
+   [
+    51.32,
+    51.52,
+    " la"
+   ],
+   [
+    51.52,
+    51.94,
+    " multitud"
+   ],
+   [
+    51.94,
+    52.08,
+    " por"
+   ],
+   [
+    52.08,
+    52.24,
+    " su"
+   ],
+   [
+    52.24,
+    52.52,
+    " gorra"
+   ],
+   [
+    52.52,
+    52.98,
+    " roja."
+   ]
+  ]
+ },
+ {
+  "start": 53.36,
+  "end": 54.36,
+  "text": " Nunca le miras la cara.",
+  "words": [
+   [
+    53.36,
+    53.62,
+    " Nunca"
+   ],
+   [
+    53.62,
+    53.78,
+    " le"
+   ],
+   [
+    53.78,
+    53.98,
+    " miras"
+   ],
+   [
+    53.98,
+    54.14,
+    " la"
+   ],
+   [
+    54.14,
+    54.36,
+    " cara."
+   ]
+  ]
+ },
+ {
+  "start": 54.36,
+  "end": 57.66,
+  "text": " Minutos despu\u00e9s, el crucero ruso estaba en el fondo del puerto",
+  "words": [
+   [
+    54.36,
+    55.22,
+    " Minutos"
+   ],
+   [
+    55.22,
+    55.56,
+    " despu\u00e9s,"
+   ],
+   [
+    55.68,
+    55.78,
+    " el"
+   ],
+   [
+    55.78,
+    56.16,
+    " crucero"
+   ],
+   [
+    56.16,
+    56.4,
+    " ruso"
+   ],
+   [
+    56.4,
+    56.7,
+    " estaba"
+   ],
+   [
+    56.7,
+    56.86,
+    " en"
+   ],
+   [
+    56.86,
+    57.0,
+    " el"
+   ],
+   [
+    57.0,
+    57.14,
+    " fondo"
+   ],
+   [
+    57.14,
+    57.34,
+    " del"
+   ],
+   [
+    57.34,
+    57.66,
+    " puerto"
+   ]
+  ]
+ },
+ {
+  "start": 57.66,
+  "end": 59.44,
+  "text": " y los alemanes volv\u00edan a Mar-Aviato.",
+  "words": [
+   [
+    57.66,
+    58.02,
+    " y"
+   ],
+   [
+    58.02,
+    58.16,
+    " los"
+   ],
+   [
+    58.16,
+    58.52,
+    " alemanes"
+   ],
+   [
+    58.52,
+    58.86,
+    " volv\u00edan"
+   ],
+   [
+    58.86,
+    58.96,
+    " a"
+   ],
+   [
+    58.96,
+    59.08,
+    " Mar"
+   ],
+   [
+    59.08,
+    59.44,
+    "-Aviato."
+   ]
+  ]
+ },
+ {
+  "start": 59.94,
+  "end": 61.02,
+  "text": " Ese barco se llamaba Enven.",
+  "words": [
+   [
+    59.94,
+    60.1,
+    " Ese"
+   ],
+   [
+    60.1,
+    60.32,
+    " barco"
+   ],
+   [
+    60.32,
+    60.46,
+    " se"
+   ],
+   [
+    60.46,
+    60.72,
+    " llamaba"
+   ],
+   [
+    60.72,
+    61.02,
+    " Enven."
+   ]
+  ]
+ },
+ {
+  "start": 61.58,
+  "end": 65.1,
+  "text": " Y en tamil, llamar a alguien Enven todav\u00eda significa que es demasiado listo.",
+  "words": [
+   [
+    61.58,
+    61.72,
+    " Y"
+   ],
+   [
+    61.72,
+    61.82,
+    " en"
+   ],
+   [
+    61.82,
+    62.24,
+    " tamil,"
+   ],
+   [
+    62.38,
+    62.62,
+    " llamar"
+   ],
+   [
+    62.62,
+    62.72,
+    " a"
+   ],
+   [
+    62.72,
+    62.88,
+    " alguien"
+   ],
+   [
+    62.88,
+    63.18,
+    " Enven"
+   ],
+   [
+    63.18,
+    63.58,
+    " todav\u00eda"
+   ],
+   [
+    63.58,
+    64.04,
+    " significa"
+   ],
+   [
+    64.04,
+    64.22,
+    " que"
+   ],
+   [
+    64.22,
+    64.4,
+    " es"
+   ],
+   [
+    64.4,
+    64.76,
+    " demasiado"
+   ],
+   [
+    64.76,
+    65.1,
+    " listo."
+   ]
+  ]
+ }
+]

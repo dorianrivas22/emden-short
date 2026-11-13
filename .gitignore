@@ -1,0 +1,7 @@
+node_modules/
+out/
+voice/models/
+voice/t_*.wav
+voice/es_*.wav
+voice/v16*.wav
+*.log
