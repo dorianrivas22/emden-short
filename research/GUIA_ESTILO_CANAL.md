@@ -210,7 +210,35 @@ Cada vídeo tiene su `ANALISIS.md` con el detalle plano a plano; aquí está lo 
 
 ---
 
-## 9. Límites del estudio
+## 9. Otros dos canales en crecimiento (noviembre de 2026)
+
+Análisis completos en `research/otros_canales/`; datos de crecimiento en `research/CANALES_EN_CRECIMIENTO.md`. Son **fórmulas distintas** a la del canal de referencia; sirven para comparar y tomar ideas sueltas.
+
+| | Canal de referencia | Stumblework (inventos) | Beggydone (sucesos oscuros) |
+|---|---|---|---|
+| Duración | 58–67 s | **163–169 s** | 62–68 s |
+| Palabras/s | 3,4–3,9 | **2,8–3,0** | **4,3–4,5** |
+| Pausas > 0,25 s | 2–5 | **32–34** (hasta 0,8 s) | 0–4 |
+| Sonoridad / LRA | −14 LUFS / 1,7–3,2 | −14 / 2,4–2,6 | **−13** / 1,2–1,7 |
+| Cortes duros | 0–10 | 5–23 | **53–58 (uno por segundo)** |
+| Imagen | 3D toon + personajes 2D, color rico | **Render 3D tipo CAD, sin personajes**, rojo solo en la pieza activa | **Dibujo 2D en grises**, un único color simbólico |
+| Saturación | 0,38–0,58 | 0,29–0,47 | **0,005–0,16** |
+| Persona | 3ª ("He…") | **2ª ("You…")** | 3ª |
+| Motor del guion | Misterio → explicación → justicia poética | **Cadena "But [fallo] → So [pieza]"** ×9 | **Una sola frase sin aire** con "and / so / until" |
+| Final | En seco en la última palabra | "Congratulations!… Follow for more, because if…" (**bucle**) | Giro o **pregunta abierta** ("But why did it stop working?") |
+| Subtítulos | 1–2 palabras a ~68 % | 1 palabra a ~50 % | 1–2 palabras a ~55–60 % |
+
+**Ideas que se pueden aprovechar en nuestros cortos (sin copiar historias ni dibujos)**
+1. **Bucle final**: cerrar con una frase cortada que empalma con la primera ("because if…" → "You doodle…"), para que el vídeo se repita solo.
+2. **Serie numerada con título fijo** ("Invention Series Ep #8"): Stumblework pasó de 0 a 19K suscriptores en 19 días con 8 episodios.
+3. **Recompensas de vocabulario** cada 10–20 s: de dónde viene una palabra o qué pieza "todavía se ve hoy" (sprocket holes, "the flicks", feed dogs).
+4. **Un solo color de acento** para la pieza o el objeto clave (coincide con la regla del canal de referencia).
+5. **Pregunta final abierta** para provocar comentarios (Beggydone), como alternativa al remate en seco.
+6. **El título promete el motivo** ("For One Small Reason") y el vídeo lo guarda para la última línea.
+
+---
+
+## 10. Límites del estudio
 - Jar y Japón son fragmentos (21 y 25 s) con el **doblaje automático al español**; su guion inglés sale de los subtítulos.
 - Storm Oil y Grave Bell vienen de grabaciones de pantalla; los 5 recientes, de descarga directa. El **movimiento medio no es comparable** entre los dos grupos (otro método de medida): solo sirve dentro de cada grupo.
 - Las visitas de Cart Army y Drivers son de pocos días después de publicarse.
