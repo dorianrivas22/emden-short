@@ -6,3 +6,5 @@ voice/es_*.wav
 voice/v16*.wav
 *.log
 research/_fuentes/
+__pycache__/
+*_raw.wav

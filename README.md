@@ -10,6 +10,15 @@ version time-warps it to its own voice (`public/warp_es.json`).
 - `audio/make_audio.py` — synthesized score + SFX mix (`LANG_SHORT=es` for Spanish), needs the skill's audio kit
 - `voice/` — Piper TTS voices (models not committed: en_US-ryan-high, es_ES-davefx-medium) + word timings
 
+## Second short: "Built Too Big" (London's sewers, Bazalgette 1858)
+- `sewers/SCRIPT.md` — facts with sources and the EN/ES script
+- `src/videos/sewers/` — `sets.ts` (tunnel, river bank, Parliament, Commons, Embankment cut-away, city), `cast.ts` (cast, effect cards),
+  `shots.ts` (24 shots, one per narration sentence, so EN and ES share the shot list), `Sewers.tsx` (composition, captions)
+- `sewers/make_voice.py en|es` — Piper voice + Whisper word timings → `public/sewers_words_<lang>.json`
+- `sewers/make_audio.py en|es` — score + SFX + mix → `sewers/audio/mix_<lang>.wav`
+- Stills: `bash scripts/sheet.sh SewersShort out/sewers/check 63,186,270` (Windows, GPU via ANGLE)
+- Final: `npx remotion render src/index.ts SewersShort out/sewers/video_en.mp4 --codec h264 --crf 16 --scale 1.3333 --gl=angle`, then mux with the mix
+
 ## Render (on a machine with a GPU this takes minutes)
 ```
 npm install
