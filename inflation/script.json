@@ -1,0 +1,31 @@
+{
+  "_note": "The Money Stove (Germany 1923). Made with the cartoon-audio-short skill. [caption text, TTS text or null]; sentences end in . or ?",
+  "model": { "en": ["en_US-ryan-high", 0.86], "es": ["es_ES-davefx-medium", 0.79] },
+  "en": [
+    ["In nineteen twenty-three, a German woman lit her stove with money.", null],
+    ["Not to show off.", null],
+    ["Because it was cheaper than firewood.", null],
+    ["At the end of nineteen twenty-two, a loaf of bread in Berlin cost about one hundred and sixty marks.", null],
+    ["By September, one and a half million.", null],
+    ["By November, two hundred billion.", null],
+    ["People carried their wages home in wheelbarrows.", null],
+    ["Kids stacked bundles of cash like building blocks, and made kites out of banknotes.", null],
+    ["Some families papered their walls with it.", null],
+    ["Shops changed their prices several times a day.", null],
+    ["Wait until tomorrow, and your money might only buy half a loaf.", null],
+    ["But where did all that money come from?", null],
+    ["You see, the government owed huge debts, so it did the easy thing.", null],
+    ["It printed more money.", null],
+    ["Presses ran day and night.", null],
+    ["Think of a pizza.", null],
+    ["Cut it into eight slices or eight hundred, it's still one pizza.", null],
+    ["Germany kept cutting, and every slice got thinner.", null],
+    ["Then, in November, they tried something almost funny.", null],
+    ["Brand new money, with twelve zeros crossed out.", null],
+    ["One trillion old marks became one new mark.", null],
+    ["And it worked.", null],
+    ["Because this time, they promised to do one thing.", null],
+    ["Stop printing.", null]
+  ],
+  "es": []
+}

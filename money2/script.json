@@ -1,0 +1,25 @@
+{
+  "_note": "The Money Stove v2 (Germany 1923), written to research/GUIA_NUMERICA_20.md: hook = she + odd action, no date; ~15-word linked sentences; 2-4 very short punches; ~240 words. [caption text, TTS text or null]",
+  "model": { "en": ["en_US-ryan-high", 0.8], "es": ["es_ES-davefx-medium", 0.79] },
+  "en": [
+    ["She threw a bundle of money into her stove, because it was cheaper than buying firewood.", null],
+    ["You see, this is Germany in 1923, and money is losing its value faster than anyone can spend it.", "You see, this is Germany in nineteen twenty-three, and money is losing its value faster than anyone can spend it."],
+    ["At the end of 1922, a loaf of bread in Berlin cost about 160 marks.", "At the end of nineteen twenty-two, a loaf of bread in Berlin cost about one hundred and sixty marks."],
+    ["By September, the same loaf cost one and a half million, and by November, two hundred billion.", null],
+    ["Workers get paid, push their wages home in wheelbarrows, and run straight to the shops before the prices change again.", null],
+    ["Kids stack bundles of cash like building blocks, and some families even paper their walls with it.", null],
+    ["Her neighbor laughs and goes, why are you burning money?", "Her neighbor laughs and goes, why are you burning money?"],
+    ["She just points at the price tag on the firewood.", null],
+    ["Fair point.", null],
+    ["So where was all this money coming from?", null],
+    ["The government owed huge debts, so it did the easiest thing it could think of, and printed more money, day and night.", null],
+    ["Think of a pizza.", null],
+    ["Cut it into eight slices or eight hundred, and it's still the same pizza, every slice just gets thinner.", null],
+    ["That's exactly what happened to every mark in Germany.", null],
+    ["Then, in November, they tried something almost funny.", null],
+    ["They printed brand new money, crossed out twelve zeros, and one trillion old marks became one new mark.", null],
+    ["And it worked, because this time, they promised to do the one thing that actually mattered.", null],
+    ["Stop printing.", null]
+  ],
+  "es": []
+}

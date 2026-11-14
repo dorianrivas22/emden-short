@@ -18,6 +18,8 @@ export type Outfit = {
   jacket: string; pants: string; boots: string; hat?: string | null; belt?: string | null; buttons?: string; rifle?: boolean;
   sash?: string; sword?: boolean; moustache?: string; skin?: string; head?: number; cap?: string; hair?: string; dress?: string;
   build?: Build;
+  /** channel style: pure ink stick limbs and feet */
+  sticks?: boolean;
 };
 type P2 = [number, number];
 
@@ -455,8 +457,8 @@ export const bodyFront = (p: Pen, o: Outfit, opts: FrontOpts) => {
   const torsoBot = mode === "sit" ? sole - 0.2 * HH : sole - Bd.legs * HH + bob;
   const chin = torsoBot - Bd.torso * HH, hc = chin - H.b, crown = hc - H.b, hipY = torsoBot - 0.12 * HH;
   const thick = thickAngle(light), ow = 5 * u;
-  const legCol = mix(o.pants, INK, 0.55), armCol = mix(o.jacket, INK, 0.5), footCol = o.boots;
-  const legW = 5.8 * u, footW = 7.5 * u;
+  const legCol = o.sticks ? INK : mix(o.pants, INK, 0.55), armCol = o.sticks ? INK : mix(o.jacket, INK, 0.5), footCol = o.sticks ? INK : o.boots;
+  const legW = (o.sticks ? 3.6 : 5.8) * u, footW = (o.sticks ? 6.5 : 7.5) * u;
   // ---- legs + feet (not rotated) ----
   p.rot = null;
   if (mode === "sit") {
@@ -530,7 +532,7 @@ export const bodyFront = (p: Pen, o: Outfit, opts: FrontOpts) => {
       arms.push({ pts: [S, E, Hd], front: true });
     } else arms.push({ pts: hang(1, sw), front: false });
   }
-  const drawArm = (a: Arm) => { p.stroke(curve(a.pts[0], a.pts[1], a.pts[2]), 5.2 * u, armCol); p.dot(a.pts[2][0], a.pts[2][1], 5.5 * u); };
+  const drawArm = (a: Arm) => { p.stroke(curve(a.pts[0], a.pts[1], a.pts[2]), (o.sticks ? 3.4 : 5.2) * u, armCol); p.dot(a.pts[2][0], a.pts[2][1], 5.5 * u); };
   // behind the body: rifle, sword, arms
   if (rifle) {
     p.band([R0, R1], "#7a4b2a", 5 * u, 1.5 * u, "round");
